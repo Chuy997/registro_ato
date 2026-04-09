@@ -97,29 +97,7 @@ if (isset($_SESSION['id_empleado'])) {
                "¡Eres parte fundamental del equipo, nunca lo olvides!",
                "¡Sigue con esa actitud y el éxito será inevitable!"
             ];
-
-            $mensajes_302484 = [
-                "¡Gracias por siempre hacer las cosas a tu manera! Incluso cuando hay un manual… y sentido común.",
-                "¡Tu aporte al caos es consistente! Eso también es compromiso, supongo.",
-                "Si alguna vez te esfuerzas de más, por favor avísanos… para documentarlo.",
-                "¡Eres el MVP de los ‘¿qué acaba de pasar aquí?’!",
-                "Cada vez que entregas algo, abrimos el archivo con un poco de miedo... y curiosidad.",
-                "¡Tu capacidad para ignorar instrucciones es tan refinada que parece arte!",
-                "No cualquiera logra complicar algo que ya estaba resuelto. Tú sí.",
-                "Tu estilo de trabajo es como un plot twist mal escrito: inesperado y sin sentido.",
-                "Gracias por recordarnos que no todos los errores son de sistema.",
-                "¡Lo tuyo es innovación espontánea! Aunque nadie la haya pedido.",
-                "Tienes el raro talento de convertir tareas simples en misterios sin resolver.",
-                "Eres como una función sin retorno: ejecutas... pero no sabemos qué salió.",
-                "¡Tus entregas son como huevos sorpresa! Nunca sabemos qué viene dentro, pero siempre sorprende.",
-                "Hay procesos... y luego está tu versión personalizada de absolutamente todo.",
-                "¡No cambies! Así seguimos teniendo historias que contar en los pasillos.",
-                "¡Nos inspiras! Principalmente a crear nuevos controles de calidad.",
-                "Con cada tarea, demuestras que las reglas están para ser... confundidas.",
-                "¡Tus soluciones tienen tanto sentido como una cuchara en una caja de tornillos!",
-                "Nos haces replantear conceptos básicos... como lógica, orden y propósito.",
-                "¡Tu paso por aquí es como una leyenda urbana! Difícil de entender, imposible de olvidar."
-            ];
+            
 
             // Determina el ID para decidir mensajes
             $id_empleado = null;
